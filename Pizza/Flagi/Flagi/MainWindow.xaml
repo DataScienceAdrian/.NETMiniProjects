@@ -1,0 +1,36 @@
+﻿<Window x:Class="Flagi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="436" Width="797">
+    <Grid>
+        <StackPanel Margin="0,0,274,181">
+
+            <Canvas>
+
+                <Rectangle Fill="#FFFFFF" Stroke="Black" Canvas.Left="19"
+                    Canvas.Top="13" Width="200" Height="100"/>
+                <Rectangle Fill="#DC143C" Stroke="Black" Canvas.Left="19"
+                    Canvas.Top="63" Width="200" Height="50"/>
+
+
+            </Canvas>
+        </StackPanel>
+        <StackPanel Margin="248,0,26,181">
+
+            <Canvas>
+
+                <Rectangle Fill="#FFFFFF" Stroke="Black" Canvas.Left="19"
+                    Canvas.Top="13" Width="200" Height="100"/>
+                <Rectangle Fill="#ce2b37" Stroke="Black" Canvas.Left="152"
+                    Canvas.Top="13" Width="67" Height="100"/>
+                <Rectangle Fill="#009246" Stroke="Black" Canvas.Left="19"
+                    Canvas.Top="13" Width="67" Height="100"/>
+
+
+            </Canvas>
+        </StackPanel>
+
+
+
+    </Grid>
+</Window>

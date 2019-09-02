@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>CountryFlag</id>
+    <version>2.1.0</version>
+    <title>CountryFlag</title>
+    <authors>Meshack Musundi</authors>
+    <owners>Meshack Musundi</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>http://www.codeproject.com/Articles/190722/WPF-CountryFlag-Control</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>WPF control for displaying the flag of any one of the 249 countries and territories assigned with an ISO 3166-1 alpha-2 code.</description>
+    <summary>WPF user control for displaying a country's flag.</summary>
+    <copyright>Copyright ©  2017 Meshack Musundi</copyright>
+    <language>en-US</language>
+    <tags>wpf flag flags country</tags>
+  </metadata>
+</package>
