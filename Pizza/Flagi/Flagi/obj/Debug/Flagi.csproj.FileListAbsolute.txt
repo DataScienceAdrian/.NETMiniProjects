@@ -1,1 +1,0 @@
-G:\C#\WpfApplication1\Flagi\Flagi\bin\Debug\Flagi.exe.config
