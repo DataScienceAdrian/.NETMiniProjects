@@ -46,8 +46,6 @@
             <Label Content="Twoje Zamówienie:" Grid.Column="6" HorizontalAlignment="Left" Margin="1,15,0,0" VerticalAlignment="Top" Width="175" Grid.ColumnSpan="2" Height="26"/>
             <Label Content="Rozmiar:" HorizontalAlignment="Left" Margin="26,59,0,0" VerticalAlignment="Top" Width="81"/>
             <Label Content="Dodatki:" HorizontalAlignment="Left" Margin="26,260,0,0" VerticalAlignment="Top" Width="139"/>
-
-
         </Grid>
     </Viewbox>
 </Window>
